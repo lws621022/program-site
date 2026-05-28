@@ -1,11 +1,6 @@
-# 斗六家商程式設計選手培訓網站
-
 ---
-
-## 選單
-
-[首頁](./) ｜ [基本觀念](basic.md) ｜ [培訓題目](problems.md) ｜ [線上評分系統](judge.md) ｜ [正式賽術科題目](contest.md) ｜ [學科題目](subject.md)
-
+layout: default
+title: 首頁
 ---
 
 # 首頁
